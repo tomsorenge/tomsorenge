@@ -5,7 +5,7 @@
 Application creation beginner.<br/>
 I have only written simple scripts.
 
-I'm trying FlauUI to control external applications from C#.
+I'm trying FlauUI to control external applications from C#.<br/>
 I am learning to create my first Windows desktop application using MAUI.
 I'm almost there, I think....　Maybe.
 <!---
