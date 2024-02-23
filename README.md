@@ -1,5 +1,5 @@
 - 👀 I’m interested in ....Application creation method
-- 🌱 I’m currently learning ....NET MAUI　C#　
+- 🌱 I’m currently learning ...C#, .NET MAUI
 - 💞️ I’m looking to collaborate on ...someday, surely, maybe, a little
 
 Application creation beginner.<br/>
