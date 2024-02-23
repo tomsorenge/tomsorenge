@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ...someday, surely, maybe, a little
 
 Application creation beginner.<br/>
-I have only written simple scripts.
+I can only write simple scripts.
 
 I'm trying FlauUI to control external applications from C#.<br/>
 I am learning to create my first Windows desktop application using MAUI.<br/>
